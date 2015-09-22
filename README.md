@@ -8,3 +8,7 @@
 Usage:
 
     cmo_facets maf -m example.maf -f facets_files.txt
+
+Output:
+
+Creates annotated maf file example.ann.maf
