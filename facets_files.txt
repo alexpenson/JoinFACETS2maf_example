@@ -1,0 +1,2 @@
+Tumor_Sample_Barcode	Version	Purity	Ploidy	dipLogR	dipt	loglik	CNCF_filename
+61T	0.3.6	0.8691428	3.533818	-0.7368676	TRUE	430.7965	c100/61T/facets__Proj_5200_G__s_SCB_61T__s_SCB_61N__cval__100_cncf.txt
