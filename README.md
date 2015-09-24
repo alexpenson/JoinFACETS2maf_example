@@ -4,7 +4,7 @@ Usage:
 
     ./facets_and_ccf_to_maf_md.R example.maf facets_files.txt
 
-Ideally usage would be something like:
+Alternatively, use the cmo python package:
 
     cmo_facets maf -m example.maf -f facets_files.txt
 
